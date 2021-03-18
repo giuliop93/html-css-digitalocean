@@ -1,0 +1,27 @@
+.logo {
+    width: 50px;
+}
+
+.hero {
+    background-image: url(digital_ocean/img/bg-banner-home.jpg);
+}
+
+.bg-gray {
+    height: 300px;
+    background-color: lightsteelblue;
+}
+
+.bg-white {
+    height: 300px;
+    background-color: white;
+}
+
+.bg-blue {
+    height: 300px;
+    background-color: blue;
+}
+
+.bg-darkblue {
+    height: 300px;
+    background-color: darkblue;
+}
