@@ -1,9 +1,10 @@
 .logo {
-    width: 50px;
+    width: 150px;
 }
 
 .hero {
-    background-image: url(digital_ocean/img/bg-banner-home.jpg);
+    background-image: url("digital_ocean/img/bg-banner-home.jpg");
+    color: white;
 }
 
 .bg-gray {
