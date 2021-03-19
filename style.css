@@ -26,6 +26,10 @@
     width: 15px;
 }
 
+.radius {
+    border-radius: 5px;
+}
+
 .white {
     color: white;
 }
