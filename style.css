@@ -19,8 +19,7 @@
 }
 
 .bg-darkblue {
-    height: 300px;
-    background-color: darkblue;
+    background-color: #031c4e;
 }
 
 .google {
@@ -29,6 +28,10 @@
 
 .white {
     color: white;
+}
+
+.grey {
+    color: lightslategray;
 }
 
 .padding_top_bottom_60 {
