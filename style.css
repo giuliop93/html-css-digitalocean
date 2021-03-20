@@ -77,7 +77,6 @@
 .carosel {
     min-height: 250px;
     width: 50%;
-   
 }
 
 .padding_bottom_60 {
@@ -87,4 +86,24 @@
 .rockerbox {
     width: 30% ;
     margin: 30px 0;
+}
+
+.bot {
+    float: right;
+    display: inline-block;
+}
+
+@media screen and (max-width: 998px) {
+    .bot {
+        float: left;
+    }
+}
+
+.bot_text {
+    width: 150px;
+}
+
+.bot_pic {
+    display: inline-block;
+    width: 50px;
 }
