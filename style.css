@@ -100,10 +100,15 @@
 }
 
 .bot_text {
-    width: 150px;
+    width: 300px;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 .bot_pic {
     display: inline-block;
+}
+
+.shark {
     width: 50px;
 }
