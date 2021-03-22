@@ -129,6 +129,7 @@
     display: inline-block;
     position: relative;
     margin-right: 20px;
+    border: solid 1px;
 }
 
 .bot_pic {
@@ -153,7 +154,6 @@
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
     border-left: 10px solid rgb(255, 255, 255);
-    /* float: right; */
     position: absolute;
     right: -10px;
     top: calc(50% - 5px);
