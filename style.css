@@ -15,6 +15,12 @@
     background-image: url("digital_ocean/img/bg-banner-home.jpg");
 }
 
+.signup {
+    color: #007bff;
+    border: 1px #007bff solid;
+    border-radius: 5px;
+}
+
 .bg-gray {
     background-color: #f3f5f9;
 }
