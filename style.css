@@ -27,6 +27,11 @@
     background-color: #0045c3 
 }
 
+.bg-primary {
+    border: none;  
+    background-color: #579aff
+}
+
 .bg-darkblue {
     background-color: #031c4e;
 }
@@ -46,6 +51,10 @@
 
 .width {
     width: calc(100% / 6 - 10px);
+}
+
+.width-100 {
+    width: 100%;
 }
 
 @media screen and (max-width: 767px) {
