@@ -62,6 +62,10 @@
     color: lightslategray;
 }
 
+.blue {
+    color: darkblue;
+}
+
 .padding_top_bottom_60 {
     padding: 60px;
 }
