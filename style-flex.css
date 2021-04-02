@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bg-white {
+    width: 100%;
+    background-color: white;
+}
+
+.navbar {
+    width: 80%;
+    padding: 15px;
+}
+
+.auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.logo {
+    width: 15%;
+    vertical-align: middle;
+}
+
+.img-logo {
+    width: 100%;
+}
+
+.list-1, .list-2 {
+    width: calc((80% / 2) - 40px);
+    line-height: 30px;
+}
+
+.none-xs {
+    display: inline-block;
+}
+
+.pad-10 {
+    padding: 10px;
+}
+
+.float {
+    float: left;
+}
+
+.decnone {
+    text-decoration: none;
+}
+
+.list-style {
+    list-style-type: none;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.signup {
+    border: 1px solid #0069ff;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: rgb(243, 240, 240);
+}
+
+.jumbotron {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-image: url('img/bg-banner-home.jpg');
+}
+
+.wrapper {
+    width: 80%;
+}
+
+.white {
+    color: white;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.e-blue {
+    color: #0069ff;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.w-80 {
+    border: lightgrey 1px solid;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 80%;
+}
+
+.create {
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #7eb2fa;
+    border: none;
+    border-radius: 5px;
+}
+
+.inline-b {
+    display: inline-block;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-5 {
+    width: 5%;
+}
+
+.img-google {
+    width: 100%;
+}
+
+.google {
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+    border: none;
+    color: blue;
+}
+
+.justycenter {
+    justify-content: center;
+}
+
+.f-start {
+    align-self: flex-start;
+}
+
+.radius-5 {
+    border-radius: 5px;
+}
+
+.bg-gray {
+    background-color: rgb(243, 246, 247);
+}
