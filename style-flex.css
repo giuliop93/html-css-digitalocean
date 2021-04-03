@@ -156,3 +156,18 @@ a:hover {
 .bg-gray {
     background-color: rgb(243, 246, 247);
 }
+
+.flex-c {
+    display: flex;
+    flex-direction: column;
+}
+
+.logos-row {
+    justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+    .w-var {
+        flex-basis: calc(100% / 4)
+    };
+}
