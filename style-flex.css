@@ -163,11 +163,18 @@ a:hover {
 }
 
 .logos-row {
+    flex-grow: 1;
     justify-content: center;
 }
 
-@media screen and (max-width: 768px) {
+.logos-item {
+}
+
+.logos-item > img {
+    flex-grow: 1;
+}
+/* @media screen and (max-width: 768px) {
     .w-var {
         flex-basis: calc(100% / 4)
     };
-}
+} */
